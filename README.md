@@ -10,10 +10,8 @@ I'm a passionate software engineer with a strong foundation in full-stack develo
 - 🌱 I’m currently learning: **Kubernetes internals, scalable data pipelines, and cloud infrastructure**
 - 👯 I’m looking to collaborate on: **Open-source projects and data-driven backend systems**
 - 💬 Ask me about: **Python, React, DevOps, and Data Engineering workflows**
-- 📫 How to reach me: [nitesh21@umd.edu](mailto:nitesh21@umd.edu)
+- 📫 How to reach me: [nitesh21@terpmail.umd.edu](mailto:nitesh21@terpmail.umd.edu)
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can build a full-stack app faster than I can choose what to watch on Netflix 😄
-
 ---
 
 ### 🛠 Tech Stack
