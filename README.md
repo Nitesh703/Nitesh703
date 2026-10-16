@@ -46,15 +46,6 @@ I'm a passionate software engineer with a strong foundation in full-stack develo
 
 ---
 
-### 📌 Featured Projects
-
-- 🧠 **AI Chatbot Assistant** – Natural language chatbot built using Python & GPT API  
-- 🌐 **DevPortfolio** – A developer portfolio generator using React and Markdown  
-- 📊 **Stock Market Analyzer** – Real-time financial dashboard using Yahoo Finance API  
-- ⚙️ **ETL Pipeline for Retail Analytics** – Built a data ingestion and transformation pipeline using Airflow, Spark, and Snowflake  
-
----
-
 ### 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nitesh-kataria-896789199)
